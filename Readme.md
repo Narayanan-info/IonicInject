@@ -1,6 +1,6 @@
 # Advanced Bug Bounty Injection Scanner 🔍
 
-![Banner](https://via.placeholder.com/800x200.png?text=Advanced+Bug+Bounty+Injection+Scanner)
+![Banner](https://sourcecodered.com/wp-content/uploads/2024/07/bug-bounty-circle-general-logo.png)
 
 The **Advanced Bug Bounty Injection Scanner** is a powerful Bash script designed to automate the process of discovering and scanning vulnerable endpoints in web applications. It integrates multiple tools and techniques to detect common vulnerabilities such as **XSS**, **LFI**, **Open Redirection**, and **SQL Injection**. Developed by **Narayanan K**, this tool is a must-have for bug bounty hunters, penetration testers, and security researchers.
 
@@ -26,17 +26,17 @@ The **Advanced Bug Bounty Injection Scanner** is a powerful Bash script designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-bug-bounty-scanner.git
-   cd ionicinject
+   git clone https://github.com/Narayanan-info/IonicInject.git
+   cd IonicInject
    ```
 
 2. Make the script executable:
     ```bash
-    chmod +x ionicinject.sh
+    chmod +x IonicInject.sh
     ```
 
 3. Run the script with the --scan option to install dependencies and start scanning:
     ```bash
-    ./ionicinject.sh --scan targets.txt
+    ./IonicInject.sh --scan targets.txt
     ```
 
