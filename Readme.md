@@ -1,7 +1,5 @@
 # Advanced Bug Bounty Injection Scanner 🔍
 
-![Banner](https://sourcecodered.com/wp-content/uploads/2024/07/bug-bounty-circle-general-logo.png)
-
 The **Advanced Bug Bounty Injection Scanner** is a powerful Bash script designed to automate the process of discovering and scanning vulnerable endpoints in web applications. It integrates multiple tools and techniques to detect common vulnerabilities such as **XSS**, **LFI**, **Open Redirection**, and **SQL Injection**. Developed by **Narayanan K**, this tool is a must-have for bug bounty hunters, penetration testers, and security researchers.
 
 ---
